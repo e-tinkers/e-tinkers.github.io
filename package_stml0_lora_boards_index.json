@@ -1,0 +1,46 @@
+{
+  "packages": [
+    {
+      "name": "STM32L0 LoRa Boards",
+      "maintainer": "e-tinkers",
+      "websiteURL": "https://github.com/e-tinkers/ArduinoCore-stm32l0",
+      "email": "cheetah_henry@hotmail.com",
+      "help": {
+        "online": "https://github.com/e-tinkers/ArduinoCore-stm32l0/issues"
+      },
+      "platforms": [
+        {
+          "name": "STM32L0 LoRa Boards",
+          "architecture": "stm32l0",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/grumpyoldpizza/ArduinoCore-stm32l0/archive/0.0.10.tar.gz",
+          "archiveFileName": "ArduinoCore-stm32l0-0.0.10.tar.gz",
+          "checksum": "MD5:eecfd6198fa454b6dbc3149b2eebec3f",
+          "size": "9758702",
+          "boards": [
+            {"name": "Grasshopper-L082CZ"},
+            {"name": "Cricket-L082CZ"},
+            {"name": "Cicada-L082CZ"},
+            {"name": "Gnat-L082CZ"},
+            {"name": "B-L072Z-LRWAN1"},
+            {"name": "I-NUCLEO-LRWAN1"},
+            {"name": "P-NUCLEO-LRWAN1"},
+            {"name": "NUCLEO-L053R8"},
+            {"name": "NUCLEO-L073RZ"},
+            {"name": "TechStudio-LoRa"},
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        }
+      ],
+      "tools": [
+      ]
+    }
+  ]
+}
