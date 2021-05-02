@@ -14,10 +14,10 @@
           "architecture": "stm32l0",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/grumpyoldpizza/ArduinoCore-stm32l0/archive/0.0.10.tar.gz",
-          "archiveFileName": "ArduinoCore-stm32l0-0.0.10.tar.gz",
-          "checksum": "MD5:eecfd6198fa454b6dbc3149b2eebec3f",
-          "size": "9758702",
+          "url": "https://github.com/e-tinkers/ArduinoCore-stm32l0/archive/1.0.0.tar.gz",
+          "archiveFileName": "ArduinoCore-stm32l0-1.0.0.tar.gz",
+          "checksum": "",
+          "size": "",
           "boards": [
             {"name": "Grasshopper-L082CZ"},
             {"name": "Cricket-L082CZ"},
@@ -34,7 +34,7 @@
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
-              "version": "4.8.3-2014q1"
+              "version": ""
             }
           ]
         }
